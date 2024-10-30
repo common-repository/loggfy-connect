@@ -1,0 +1,19 @@
+{
+    "name": "loggfy/monitoring",
+    "description": "Website monitpring services for wordpress ",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LoggfyMonitoring",
+            "email": "hi@loggfy.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {"LoggfyMonitoring\\": "./src"}
+    }
+}
